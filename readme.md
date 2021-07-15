@@ -12,7 +12,19 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at hello@bushrawaheed.com.
 
-### Certifications
+## Certifications
 
-### Support My Work
+Tableau Essential Training By Linkedin
+Machine Learning Explainability By Kaggle
+Data Science Test By Testdome
+Deep Learning Specialization By deeplearning.ai
+Neural Networks and Deep Learning
+Structuring Machine Learning Projects
+Improving Deep Neural Networks
+Convolution Neural Networks
+Sequence Models
+Big Data 101 By Cognitiveclass.ai
+Google Analytics for Begineers By Google
+
+## Support My Work
 If this project inspired you, gave you ideas for your own portfolio or helped you, please consider buying me a coffee ❤️.
