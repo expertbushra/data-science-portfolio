@@ -13,9 +13,9 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at hello@bushrawaheed.com.
 
 ## Certifications
-
-Tableau Essential Training By Linkedin
-Machine Learning Explainability By Kaggle
+https://user-images.githubusercontent.com/20420538/125817846-73a1d18a-31f0-4f7c-af15-799c85f95047.png
+Tableau Essential Training By Linkedin/
+Machine Learning Explainability By Kaggle/
 Data Science Test By Testdome
 Deep Learning Specialization By deeplearning.ai
 Neural Networks and Deep Learning
